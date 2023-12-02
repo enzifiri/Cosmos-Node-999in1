@@ -1,4 +1,4 @@
-<h1 align="center"> Cosmos Node Komutları </h1>
+<h1 align="center"> Cosmos Node Komutları (DURDURULDU) </h1>
 <div align="center">
 
 ![Cosmos-ATOM-silent-has-tripled-in-recent-times-What](https://user-images.githubusercontent.com/76253089/221367235-ef56fc75-ad44-41d9-8e91-20704ad3806a.jpg)
